@@ -120,7 +120,21 @@ footer{
 .hero h1{
     font-size:34px;
 }
+.navbar{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:15px;
+    padding:20px;
+}
 
+.logo{
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    background:white;
+    object-fit:cover;
+}
 .hero p{
     font-size:18px;
 }
