@@ -129,11 +129,14 @@ footer{
 }
 
 .logo{
-    width:70px;
-    height:70px;
-    border-radius:50%;
+    width:140px;
+    height:140px;
+    object-fit:contain;
     background:white;
-    object-fit:cover;
+    border-radius:50%;
+    padding:10px;
+    margin-bottom:20px;
+    box-shadow:0 8px 25px rgba(0,0,0,.15);
 }
 .hero p{
     font-size:18px;
