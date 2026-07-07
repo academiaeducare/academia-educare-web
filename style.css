@@ -93,7 +93,7 @@ section h2{
     transition:.3s;
     border-top:5px solid #25D366;
 }
-}
+
 
 .card:hover{
     transform:translateY(-6px);
