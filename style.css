@@ -149,3 +149,33 @@ footer{
 }
 
 }
+.navbar{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:40px;
+    padding:20px;
+}
+
+.logo-menu{
+    width:70px;
+    height:70px;
+    border-radius:50%;
+}
+
+.menu{
+    display:flex;
+    list-style:none;
+    gap:30px;
+}
+
+.menu a{
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+    font-size:22px;
+}
+
+.menu a:hover{
+    text-decoration:underline;
+}
