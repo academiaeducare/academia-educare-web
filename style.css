@@ -186,6 +186,16 @@ footer{
     font-size:20px;
 }
 
+@media(min-width:769px){
+    .texto-whatsapp{
+        display:inline;
+    }
+
+    .icono-whatsapp{
+        display:none;
+    }
+}
+
 }
 
 .navbar{
