@@ -191,6 +191,13 @@ footer{
     border-radius:50%;
 }
 
+@media(max-width:768px){
+.logo-menu{
+    width:40px;
+    height:40px;
+}
+}
+
 .menu{
     display:flex;
     list-style:none;
