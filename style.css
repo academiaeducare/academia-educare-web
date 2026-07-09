@@ -266,3 +266,14 @@ footer{
     font-style:italic;
     color:#0057b8;
 }
+@media(min-width:769px){
+
+.texto-whatsapp{
+    display:inline;
+}
+
+.icono-whatsapp{
+    display:none;
+}
+
+}
