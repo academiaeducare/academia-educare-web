@@ -178,10 +178,10 @@ footer{
 
 .navbar{
     display:flex;
-    flex-direction:column;
+    justify-content:center;
     align-items:center;
-    gap:15px;
-    padding:20px;
+    gap:5px;
+    padding:10px 5px;
 }
 
 .logo-menu{
