@@ -193,8 +193,8 @@ footer{
     display:flex;
     justify-content:center;
     align-items:center;
-    gap:5px;
-    padding:10px 5px;
+    gap:2px;
+    padding:10px 2px;
 }
 
 .logo-menu{
