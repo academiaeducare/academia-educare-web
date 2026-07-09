@@ -177,6 +177,15 @@ footer{
     font-size:13px;
 }
 
+.texto-whatsapp{
+    display:none;
+}
+
+.icono-whatsapp{
+    display:inline;
+    font-size:20px;
+}
+
 }
 
 .navbar{
