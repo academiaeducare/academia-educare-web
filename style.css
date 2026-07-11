@@ -300,11 +300,12 @@ footer{
     box-shadow:0 20px 45px rgba(0,0,0,.15);
 }
 .faq summary{
-    padding:20px;
-    font-size:20px;
+    padding:22px 25px;
+    font-size:21px;
     font-weight:bold;
     cursor:pointer;
     list-style:none;
+    color:#0057b8;
 }
 
 .faq summary::-webkit-details-marker{
