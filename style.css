@@ -287,12 +287,18 @@ footer{
 
 .faq details{
     background:white;
-    margin-bottom:15px;
-    border-radius:12px;
-    box-shadow:0 8px 20px rgba(0,0,0,.08);
+    margin-bottom:20px;
+    border-radius:18px;
+    border-top:5px solid #25D366;
+    box-shadow:0 15px 35px rgba(0,0,0,.10);
     overflow:hidden;
+    transition:.3s;
 }
 
+.faq details:hover{
+    transform:translateY(-4px);
+    box-shadow:0 20px 45px rgba(0,0,0,.15);
+}
 .faq summary{
     padding:20px;
     font-size:20px;
