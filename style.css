@@ -319,8 +319,8 @@ footer{
     color:#25D366;
 }
 
-.faq details[open] summary::after{
-    content:"−";
+.faq details[open] summary{
+    background:#f7fbff;
 }
 
 .faq details p{
